@@ -5,9 +5,9 @@
 Spring Boot Java-based backend for Social Media App - Twitter, using Gradle, leveraging JPA for ORM and H2 as an in-memory database. Supporting core features such as posting, commenting, reactions, and comprehensive user authentication with BCrypt algorithm, ensuring robust password encoding and secure user experience.
 
 ## Tech Stack
-- [Springboot](https://docs.spring.io/spring-boot/index.html)
+- [Springboot - JAVA](https://docs.spring.io/spring-boot/index.html)
 - [Springdata JPA](https://docs.spring.io/spring-data/jpa/reference/index.html)
-- [h2](https://www.h2database.com/html/quickstart.html)
+- [H2](https://www.h2database.com/html/quickstart.html)
 - [Springboot Gradle Plugin](https://docs.spring.io/spring-boot/docs/1.4.3.RELEASE/reference/html/build-tool-plugins-gradle-plugin.html)
 - 
 ## Key Features
