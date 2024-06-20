@@ -2,7 +2,7 @@
 
 ## About
 
-Spring Boot Java-based backend for Social Media App - Twitter, leveraging JPA for ORM and H2 as an in-memory database. Supporting core features such as posting, commenting, reactions, and comprehensive user authentication with BCrypt algorithm, ensuring robust password encoding and secure user experience.
+Spring Boot Java-based backend for Social Media App - Twitter, using Gradle, leveraging JPA for ORM and H2 as an in-memory database. Supporting core features such as posting, commenting, reactions, and comprehensive user authentication with BCrypt algorithm, ensuring robust password encoding and secure user experience.
 
 ## Key Features
 
@@ -11,6 +11,7 @@ Spring Boot Java-based backend for Social Media App - Twitter, leveraging JPA fo
 - Has BCryptEncoded user password authentication and JPA for ORM
 
 ## Getting started
+
 Developed a robust backend for a social media clone using Spring Boot, leveraging JPA for ORM and H2 as an
 in-memory database, validated through comprehensive API testing using Postman for reliability and correctness
 • Implemented core features such as posting, commenting, reactions, and comprehensive user authentication with BCrypt
@@ -20,16 +21,9 @@ algorithm, ensuring robust password encoding and secure user experience
 ```sh
 cd /path/to/the/root
 ```
+Download the jar file in the root directory.
 
-### Compiling (GCC compiler) into executable files
-```sh
-gcc -o table.out table.c
-gcc -o waiter.out waiter.c
-gcc -o admin.out admin.c
-gcc -o hotelmanager.out hotelmanager.c
-```
-
-### Running executable files
+### Running the jar file
 ```sh
 table.out
 waiter.out
