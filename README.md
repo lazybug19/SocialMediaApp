@@ -29,20 +29,12 @@ git clone https://github.com/lazybug19/SocialMediaApp.git
 cd SocialMediaApp
 ```
 
-## To clone and work
+## To build the project
 ```sh
-git clone https://github.com/lazybug19/SocialMediaApp.git
-cd SocialMediaApp
+gradlew.bat build
 ```
 
-## To clone and work
+## To start the application
 ```sh
-git clone https://github.com/lazybug19/SocialMediaApp.git
-cd SocialMediaApp
-```
-
-## To clone and work
-```sh
-git clone https://github.com/lazybug19/SocialMediaApp.git
-cd SocialMediaApp
+gradlew.bat bootRun
 ```
