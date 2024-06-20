@@ -12,11 +12,6 @@ Spring Boot Java-based backend for Social Media App - Twitter, using Gradle, lev
 
 ## Getting started
 
-Developed a robust backend for a social media clone using Spring Boot, leveraging JPA for ORM and H2 as an
-in-memory database, validated through comprehensive API testing using Postman for reliability and correctness
-• Implemented core features such as posting, commenting, reactions, and comprehensive user authentication with BCrypt
-algorithm, ensuring robust password encoding and secure user experience
-
 ### Navigating to root directory
 ```sh
 cd /SocialMediaApp/gradle/wrapper
