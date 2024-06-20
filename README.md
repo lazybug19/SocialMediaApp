@@ -19,16 +19,13 @@ algorithm, ensuring robust password encoding and secure user experience
 
 ### Navigating to root directory
 ```sh
-cd /path/to/the/root
+cd /SocialMediaApp/gradle/wrapper
 ```
-Download the jar file in the root directory.
+Download the ```gradle-wrapper.jar``` file in the root directory.
 
 ### Running the jar file
 ```sh
-table.out
-waiter.out
-admin.out
-hotelmanager.out
+java -jar gradle-wrapper.jar
 ```
 ## How to run?
 
